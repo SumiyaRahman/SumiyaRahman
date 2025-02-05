@@ -3,7 +3,6 @@
 <h2>Hey 👋, This is Sumiya Binte A Rahman</h2>  
 <p>Currently learning full-stack development with a focus on Next.js, covering both front-end and back-end. I’ve completed front-end development and will soon deepen my back-end skills to become a full-stack MERN developer. Working on personal projects to strengthen my abilities.</p>  
 <p><a href="https://www.linkedin.com/in/sumiya-binte-a-rahman-%E6%9D%8E%E9%9D%99-049216329/"><img src="https://img.shields.io/badge/sumiya.in-6678cd?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a> <a href="https://x.com/rahman_sumiya24"><img src="https://img.shields.io/badge/sumiya.x-ab91e5?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"></a></p>  
-
 <img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRwcGhsZWZjZ2ZrcTAwYXB6dDVvYnRyYWM0cmVlN2c5Mzlod3Q5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elrFAUtV7ZOH7TSPhF/giphy.gif" />  
 <h2>⚡️ A Few Quick Facts</h2>  
 <ul>   
