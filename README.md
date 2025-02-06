@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats  
 
   <div style="display: flex; gap: 10px;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=SumiyaRahman&show_icons=true&theme=codeSTACKr" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumiyaRahman&layout=compact&theme=codeSTACKr" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=SumiyaRahman&show_icons=true&theme=radical" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumiyaRahman&layout=compact&theme=radical" />
   </div>
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=SumiyaRahman&theme=codeSTACKr" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=SumiyaRahman&theme=radical" />
